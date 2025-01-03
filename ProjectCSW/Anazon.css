@@ -1,0 +1,15 @@
+a.text-white { 
+    color: white !important; text-decoration: none; 
+} 
+a.text-white:hover { 
+    text-decoration: underline; 
+}
+a.no-underline { 
+    text-decoration: none;
+ }
+ .panel:hover {
+    border: 1px solid white;
+  }
+  .a1:hover {
+    border: 2px solid white;
+}
