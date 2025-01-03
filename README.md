@@ -1,5 +1,5 @@
-#This is a frontend of the clone of amazon made it for the college project 
-This a basic frontend of the clone of amazon made using HTML,CSS,jQuery and Bootstrap
+#This is a frontend of the clone of amazon made it for the college project. 
+This a basic frontend of the clone of amazon made using HTML,CSS,jQuery and Bootstrap.
 features -
 1) it contains a Login Page as well as a Registration Page 
 2) And a  Extra Page which contains Only Items if you click on the "see more" option
